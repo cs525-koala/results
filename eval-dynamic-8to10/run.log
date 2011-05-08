@@ -1,0 +1,171 @@
+This run's uniq identifier is **eval-dynamic-8to10**
+And will be using scheduler 4
+Provisioning the hosts with our killgrep helper...
+Provisioning the hosts with updated cpu_bench.sh...
+Killing raep tasks on the nc's...
+Killing load tasks on the instances...
+Disabling the scheduler...
+Putting i-361105FE (1) on 172.22.28.81...
+Putting i-38E5063C (2) on 172.22.28.81...
+Putting i-3A6806DB (3) on 172.22.28.81...
+Putting i-3CAD062C (4) on 172.22.28.81...
+Putting i-3CB80747 (5) on 172.22.28.81...
+Putting i-3DB90783 (6) on 172.22.28.82...
+Putting i-413A082E (7) on 172.22.28.82...
+Putting i-414406FD (8) on 172.22.28.82...
+Putting i-461108E1 (9) on 172.22.28.82...
+Putting i-46230856 (10) on 172.22.28.82...
+Putting i-4843089C (11) on 172.22.28.83...
+Putting i-507708F0 (12) on 172.22.28.83...
+Putting i-58290A80 (13) on 172.22.28.83...
+Putting i-587A0A79 (14) on 172.22.28.83...
+Putting i-58B70A60 (15) on 172.22.28.83...
+Enabling the MANUAL scheduler...
+Waiting until instances are scheduled appropriately...
+Instance order set! :D
+Sleeping for 60 seconds to let the system settle...
+(Performance stats, various euc caches, etc)
+Enabling scheduler 4...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+Running raep's on cn72 and cn73...
+ITERATION 8...
+Starting at dom may 8 10:34:48 CDT 2011
+
+starting evaluation:  05/08/11: 15:34:48
+spawning a cpu benchmark task on hadoop9, which will begin in 10 seconds
+spawning a cpu benchmark task on hadoop14, which will begin in 20 seconds
+spawning a cpu benchmark task on hadoop1, which will begin in 40 seconds
+spawning a cpu benchmark task on hadoop11, which will begin in 50 seconds
+spawning a cpu benchmark task on hadoop13, which will begin in 60 seconds
+spawning a cpu benchmark task on hadoop7, which will begin in 70 seconds
+spawning a cpu benchmark task on hadoop15, which will begin in 80 seconds
+spawning a cpu benchmark task on hadoop12, which will begin in 90 seconds
+spawning a cpu benchmark task on hadoop3, which will begin in 110 seconds
+spawning a cpu benchmark task on hadoop8, which will begin in 120 seconds
+spawning a cpu benchmark task on hadoop4, which will begin in 140 seconds
+spawning a cpu benchmark task on hadoop5, which will begin in 150 seconds
+spawning a cpu benchmark task on hadoop2, which will begin in 160 seconds
+spawning a cpu benchmark task on hadoop10, which will begin in 170 seconds
+spawning a cpu benchmark task on hadoop6, which will begin in 180 seconds
+
+At  05/08/11: 15:34:58 starting job with exponent 24 on hadoop9
+
+At  05/08/11: 15:35:08 starting job with exponent 24 on hadoop14
+
+At  05/08/11: 15:35:28 starting job with exponent 24 on hadoop1
+
+At  05/08/11: 15:35:38 starting job with exponent 24 on hadoop11
+
+At  05/08/11: 15:35:48 starting job with exponent 24 on hadoop13
+
+At  05/08/11: 15:35:58 starting job with exponent 24 on hadoop7
+
+At  05/08/11: 15:36:08 starting job with exponent 24 on hadoop15
+
+At  05/08/11: 15:36:18 starting job with exponent 24 on hadoop12
+
+At  05/08/11: 15:36:38 starting job with exponent 24 on hadoop3
+
+At  05/08/11: 15:36:48 starting job with exponent 24 on hadoop8
+
+At  05/08/11: 15:37:08 starting job with exponent 24 on hadoop4
+
+At  05/08/11: 15:37:18 starting job with exponent 24 on hadoop5
+
+At  05/08/11: 15:37:28 starting job with exponent 24 on hadoop2
+
+At  05/08/11: 15:37:38 starting job with exponent 24 on hadoop10
+
+At  05/08/11: 15:37:48 starting job with exponent 24 on hadoop6
+Ended at dom may 8 10:47:13 CDT 2011
+Running raep's on cn72 and cn73...
+ITERATION 9...
+Starting at dom may 8 10:47:21 CDT 2011
+
+starting evaluation:  05/08/11: 15:47:21
+spawning a cpu benchmark task on hadoop9, which will begin in 10 seconds
+spawning a cpu benchmark task on hadoop14, which will begin in 20 seconds
+spawning a cpu benchmark task on hadoop1, which will begin in 40 seconds
+spawning a cpu benchmark task on hadoop11, which will begin in 50 seconds
+spawning a cpu benchmark task on hadoop13, which will begin in 60 seconds
+spawning a cpu benchmark task on hadoop7, which will begin in 70 seconds
+spawning a cpu benchmark task on hadoop15, which will begin in 80 seconds
+spawning a cpu benchmark task on hadoop12, which will begin in 90 seconds
+spawning a cpu benchmark task on hadoop3, which will begin in 110 seconds
+spawning a cpu benchmark task on hadoop8, which will begin in 120 seconds
+spawning a cpu benchmark task on hadoop4, which will begin in 140 seconds
+spawning a cpu benchmark task on hadoop5, which will begin in 150 seconds
+spawning a cpu benchmark task on hadoop2, which will begin in 160 seconds
+spawning a cpu benchmark task on hadoop10, which will begin in 170 seconds
+spawning a cpu benchmark task on hadoop6, which will begin in 180 seconds
+
+At  05/08/11: 15:47:31 starting job with exponent 24 on hadoop9
+
+At  05/08/11: 15:47:41 starting job with exponent 24 on hadoop14
+
+At  05/08/11: 15:48:01 starting job with exponent 24 on hadoop1
+
+At  05/08/11: 15:48:11 starting job with exponent 24 on hadoop11
+
+At  05/08/11: 15:48:21 starting job with exponent 24 on hadoop13
+
+At  05/08/11: 15:48:31 starting job with exponent 24 on hadoop7
+
+At  05/08/11: 15:48:41 starting job with exponent 24 on hadoop15
+
+At  05/08/11: 15:48:51 starting job with exponent 24 on hadoop12
+
+At  05/08/11: 15:49:11 starting job with exponent 24 on hadoop3
+
+At  05/08/11: 15:49:21 starting job with exponent 24 on hadoop8
+
+At  05/08/11: 15:49:41 starting job with exponent 24 on hadoop4
+
+At  05/08/11: 15:49:51 starting job with exponent 24 on hadoop5
+
+At  05/08/11: 15:50:01 starting job with exponent 24 on hadoop2
+
+At  05/08/11: 15:50:11 starting job with exponent 24 on hadoop10
+
+At  05/08/11: 15:50:21 starting job with exponent 24 on hadoop6
+Ended at dom may 8 11:02:42 CDT 2011
+Running raep's on cn72 and cn73...
+ITERATION 10...
+Starting at dom may 8 11:02:50 CDT 2011
+
+starting evaluation:  05/08/11: 16:02:50
+spawning a cpu benchmark task on hadoop9, which will begin in 10 seconds
+spawning a cpu benchmark task on hadoop14, which will begin in 20 seconds
+spawning a cpu benchmark task on hadoop1, which will begin in 40 seconds
+spawning a cpu benchmark task on hadoop11, which will begin in 50 seconds
+spawning a cpu benchmark task on hadoop13, which will begin in 60 seconds
+spawning a cpu benchmark task on hadoop7, which will begin in 70 seconds
+spawning a cpu benchmark task on hadoop15, which will begin in 80 seconds
+spawning a cpu benchmark task on hadoop12, which will begin in 90 seconds
+spawning a cpu benchmark task on hadoop3, which will begin in 110 seconds
+spawning a cpu benchmark task on hadoop8, which will begin in 120 seconds
+spawning a cpu benchmark task on hadoop4, which will begin in 140 seconds
+spawning a cpu benchmark task on hadoop5, which will begin in 150 seconds
+spawning a cpu benchmark task on hadoop2, which will begin in 160 seconds
+spawning a cpu benchmark task on hadoop10, which will begin in 170 seconds
+spawning a cpu benchmark task on hadoop6, which will begin in 180 seconds
+
+At  05/08/11: 16:03:00 starting job with exponent 24 on hadoop9
+
+At  05/08/11: 16:03:10 starting job with exponent 24 on hadoop14
+
+At  05/08/11: 16:03:30 starting job with exponent 24 on hadoop1
+
+At  05/08/11: 16:03:40 starting job with exponent 24 on hadoop11
+
+At  05/08/11: 16:03:50 starting job with exponent 24 on hadoop13
+
+At  05/08/11: 16:04:00 starting job with exponent 24 on hadoop7
+./cpu_driver.sh: línea 189: 26061 Terminado               $RUN python -u ./cpu_benchmark.py
+Ended at dom may 8 11:04:05 CDT 2011
+Running raep's on cn72 and cn73...
